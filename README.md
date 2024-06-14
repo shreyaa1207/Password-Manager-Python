@@ -26,7 +26,7 @@ The encrypted passwords are stored in a local file. The master password hash and
 Requires Python 3.x
 Clone the repo
 ```
-git clone https://github.com/satharv/Secure-Password-Manager.git
+git clone https://github.com/shreyaa1207/Password-Manager-Python.git
 ```
 Install requirements:
 ```
